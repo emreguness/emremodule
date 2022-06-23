@@ -16,12 +16,12 @@ function HomeScreen() {
           paddingTop: 5,
           paddingBottom: 5,
           width: '80%'
-        }}>Name: hasanbykkk </Text>
+        }}>Name: emreguness </Text>
         <Text style={{
           fontSize: 16,
           paddingTop: 5,
           paddingBottom: 5
-        }}>Number: 8</Text>
+        }}>Number: 11</Text>
         <Text style={{
           fontSize: 16,
           paddingTop: 5,
